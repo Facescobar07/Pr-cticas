@@ -91,7 +91,7 @@ section{
         top: 80px;
         left: -100%;
         transition: all .5s;
-    }
+    } 
     nav ul li{
         display: block;
         margin: 40px 0px;
